@@ -87,6 +87,10 @@ nome	TEXT	Nome do aluno
 
 email	TEXT	E-mail do aluno (único)
 
+## Exemplo 2: 
+
+Maria quer saber o seu RA e seu email, mas ela nao sabe, a o inves de ir perguntar na secretaria, esse sistema mostra para ela o seu RA e seu email apenas com o seu nome completo, usando o banco de dados com todos os RAs optimizaria o processo de busca.
+
 ## 📄 Licença
 Este projeto é de uso livre.
 
